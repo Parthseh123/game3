@@ -1,0 +1,53 @@
+
+.lockbuttons input{
+    background-color: red;
+    display: flex;
+}
+.buttons input{
+    text-align: center;
+    height: 50px;
+    margin: 10px;
+}
+
+.buttons{
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+}
+
+.but2 input{
+    background-color: red;
+}
+.but3 input{
+    background-color: red;
+}
+.but4 input{
+    background-color: red;
+}
+.but5 input{
+    background-color: red;
+}
+.but6 input{
+    background-color: red;
+}
+.but7 input{
+    background-color: red;
+}
+.but8 input{
+    background-color: red;
+}
+.but9 input{
+    background-color: red;
+}
+.but10 input{
+    background-color: red;
+}
+.but11 input{
+    background-color: red;
+}
+.but12 input{
+    background-color: red;
+}
+
+
+

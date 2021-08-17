@@ -1,0 +1,20 @@
+.playbut input{
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    margin: 200px;
+    text-align: center;
+    background-color: red;
+}
+
+
+.playbut{
+    text-align: center;
+}
+
+.ftitle{
+    text-align: center;
+}
+body{
+    background: linear-gradient(pink,lightblue);
+}
