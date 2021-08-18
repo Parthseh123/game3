@@ -43,7 +43,7 @@ var target2;
 
 function preload() {
   //load game assets
-  groundImage = loadImage("images/background.png");
+  groundImage = loadImage("https://parthseh123.github.io/game3/images/player.png");
   winsound = loadSound("winso.mp3")
 }
 
