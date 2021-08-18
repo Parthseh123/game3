@@ -516,7 +516,7 @@ function draw() {
             player.x=120;
              player.y=520;
 
-             window.open("http://127.0.0.1:5505/home6.html","_self");
+             window.open("https://parthseh123.github.io/game3/home6.html","_self");
              winsound.play();
 
                 
