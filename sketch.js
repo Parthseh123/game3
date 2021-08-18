@@ -44,8 +44,6 @@ var target2;
 function preload() {
   //load game assets
   groundImage = loadImage("../images/background.png");
-  targetImage = loadImage("../images/target.png");
-  playerImage = loadImage("/images/player.png")
   winsound = loadSound("winso.mp3")
 }
 
