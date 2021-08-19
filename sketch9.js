@@ -447,7 +447,7 @@ function draw() {
     player.y = 520;
 
 
-    window.open("http://127.0.0.1:5504/home2.html", "_self");
+    window.open("https://parthseh123.github.io/game3/home10.html", "_self");
     winsound.play();
   }
 
